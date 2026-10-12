@@ -70,4 +70,4 @@ st.subheader("Bieu do diem tong ket")
 st.bar_chart(df.set_index("Ho_ten")["Tong_ket"])
 
 # 8. Thong tin sinh vien thuc hien
-st.caption("Nguoi thuc hien: [Ho ten] | MSSV: [Ma sinh vien]")
+st.caption("Nguoi thuc hien: [Nguyen Manh Quan] | MSSV: [038208005869]")
